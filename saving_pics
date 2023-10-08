@@ -1,3 +1,5 @@
+# 运行程序前需要在当前路径创建一个名为“camera_shot”的文件夹，如果文件夹名称错误或者路径错误是找不到拍摄的图片的。
+
 import pyrealsense2 as rs
 import numpy as np
 import cv2
